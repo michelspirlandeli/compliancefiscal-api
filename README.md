@@ -27,7 +27,7 @@
 
 # Swagger
 
-- API REST com Swagger-ui. Disponível em: http://localhost:8080/swagger-ui.html
+- API REST com Swagger-ui. Disponível em: http://localhost:8090/swagger-ui.html
 
 # Heroku
 
